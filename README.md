@@ -1,16 +1,23 @@
-### Hi there 👋
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=JetBrains Mono">
+<style>
+  * {
+    font-family: JetBrains Mono
+  }
+  .npm {
+    line-height: 0;
+    font-size: 8px;
+  }
+</style>
 
-<!--
-**peter-schweitzer/peter-schweitzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Peter Schweitzer
 
-Here are some ideas to get you started:
+Creator & Maintainer Of [EZServer](https://github.com/peter-schweitzer/EZServer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.npmjs.com/package/@peter-schweitzer/ezserver"><img src="https://raw.githubusercontent.com/npm/logos/master/npm%20square/n.svg"></img></a>
+
+<br>
+<br>
+<br>
+
+<span style="font-size: 24px;">💎</span><span style="font-size: 6px;">fun fact: </span><span style="font-size: 4px;">diamonds hihihihi</span>
+
