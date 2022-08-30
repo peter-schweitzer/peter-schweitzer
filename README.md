@@ -1,14 +1,3 @@
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=JetBrains Mono">
-<style>
-  * {
-    font-family: JetBrains Mono
-  }
-  .npm {
-    line-height: 0;
-    font-size: 8px;
-  }
-</style>
-
 # Peter Schweitzer
 
 Creator & Maintainer Of [EZServer](https://github.com/peter-schweitzer/EZServer)
