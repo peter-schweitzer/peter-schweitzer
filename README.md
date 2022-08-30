@@ -9,3 +9,4 @@ Creator & Maintainer Of [EZServer](https://github.com/peter-schweitzer/EZServer)
 
 <span style="font-size: 24px;">💎</span><span style="font-size: 6px;">fun fact: </span><span style="font-size: 4px;">diamonds hihihihi</span>
 
+also check out http://dev.jeremys.social/
