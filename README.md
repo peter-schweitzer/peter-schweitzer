@@ -12,7 +12,6 @@
 # Peter Schweitzer
 
 Creator & Maintainer Of [EZServer](https://github.com/peter-schweitzer/EZServer)
-
 <a href="https://www.npmjs.com/package/@peter-schweitzer/ezserver"><img src="https://raw.githubusercontent.com/npm/logos/master/npm%20square/n.svg"></img></a>
 
 <br>
