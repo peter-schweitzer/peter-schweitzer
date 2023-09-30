@@ -5,8 +5,8 @@ Creator & Maintainer Of [EZServer](http://ezserver.jeremys.social/)
 <br>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-schweitzer&show_icons=true&locale=en&theme=gruvbox#gh-dark-mode-only" alt="peter-schweitzer" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-schweitzer&show_icons=true&locale=en&layout=compact&theme=gruvbox#gh-dark-mode-only" alt="peter-schweitzer" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-schweitzer&show_icons=true&locale=en&theme=gruvbox#gh-dark-mode-only" alt="peter-schweitzer's GitHub stats"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-schweitzer&show_icons=true&locale=en&layout=compact&theme=gruvbox#gh-dark-mode-only" alt="peter-schweitzer's most used languages"/>
 
 <br>
 <br>
