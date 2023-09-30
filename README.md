@@ -5,8 +5,9 @@ Creator & Maintainer Of [EZServer](http://ezserver.jeremys.social/)
 <br>
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-schweitzer&show_icons=true&locale=en&theme=gruvbox#gh-dark-mode-only" alt="peter-schweitzer's GitHub stats"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-schweitzer&show_icons=true&locale=en&layout=compact&theme=gruvbox#gh-dark-mode-only" alt="peter-schweitzer's most used languages"/>
+<img align="center" src="/isocalender.svg" alt="Isometic Commit Calender" width="800">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=peter-schweitzer&show_icons=true&locale=en&theme=gruvbox#gh-dark-mode-only" alt="peter-schweitzer's GitHub stats" width="420"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-schweitzer&show_icons=true&locale=en&layout=compact&theme=gruvbox#gh-dark-mode-only" alt="peter-schweitzer's most used languages" width="360"/>
 
 <br>
 <br>
