@@ -19,5 +19,5 @@ jobs:
           filename: isocalender.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ''
-          config_order: isocalender
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
