@@ -1,10 +1,7 @@
 # Peter Schweitzer
 
 <div style="width: 100%">
-<img src="https://github-readme-stats.vercel.app/api?username=peter-schweitzer&show_icons=true&locale=en&theme=gruvbox#gh-dark-mode-only" alt="peter-schweitzer's GitHub stats" width="480"/>
-</div>
-<div style="width: 100%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-schweitzer&show_icons=true&locale=en&layout=compact&langs_count=4&theme=gruvbox#gh-dark-mode-only" alt="peter-schweitzer's most used languages"  width="480"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-schweitzer&show_icons=true&locale=en&layout=compact&langs_count=4&theme=gruvbox#gh-dark-mode-only" alt="peter-schweitzer's most used languages"/>
 </div>
 <div style="width: 100%">
 <img src="/isocalender.svg" alt="Isometric Commit Calender" style="border-radius: 6px; border: 1px solid white" width="480"/>
